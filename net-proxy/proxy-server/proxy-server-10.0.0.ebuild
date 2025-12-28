@@ -11,3 +11,5 @@ S="${WORKDIR}/proxy-${PV}"
 
 LICENSE="Boost-1.0"
 SLOT="0"
+
+CMAKE_QA_COMPAT_SKIP=1
